@@ -1,9 +1,0 @@
-{
-  "name": "m2iab-darkworld",
-  "version": "1.0.0",
-  "description": "A rpg to rekindle your imagination",
-  "main": "index.js",
-  "repository": "https://github.com/edgarhsanchez/m2iab-darkworld.git",
-  "author": "Edgar H Sanchez <edgar0103sanchez@yahoo.com>",
-  "license": "MIT"
-}
